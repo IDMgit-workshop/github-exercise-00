@@ -1,4 +1,4 @@
-# p5.js Template
+# Git Workshop
 
 This is a README file that can be used to describe and document your assignment.
 
